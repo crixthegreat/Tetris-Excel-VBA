@@ -1,2 +1,2 @@
 # Tetris-Excel-VBA
-Tetris writen in Excel VBA
+Tetris written in Excel VBA
